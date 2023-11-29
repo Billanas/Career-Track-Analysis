@@ -2,7 +2,7 @@
 
 This project aims to analyze and visualize career track data to gain insights into employee demographics, management distribution, salary trends, and gender pay gaps.
 
-Project Overview
+# Project Overview
 The project consists of four main components:
 
 # Gender Breakdown

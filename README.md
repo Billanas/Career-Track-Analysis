@@ -1,4 +1,4 @@
-# Career-Track-Analysis
+# Career Track Analysis
 
 This project aims to analyze and visualize career track data to gain insights into employee demographics, management distribution, salary trends, and gender pay gaps.
 

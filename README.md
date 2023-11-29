@@ -6,7 +6,7 @@ This project aims to analyze and visualize career track data to gain insights in
 <br/>
 <br/>
 
-***Project Overview***
+**Project Overview**
 
 The project consists of four main components:
 
@@ -18,7 +18,7 @@ This component analyzes the gender distribution of employees within the specifie
 
 This component examines the distribution of managers across different departments. It determines the number of managers per department for the given time period.
 
-**Average Annual Salary*
+**Average Annual Salary**
 
 This component calculates the average annual salary of all employees for the specified time period. It provides a summary of the average salary and its distribution across the employee population.
 
